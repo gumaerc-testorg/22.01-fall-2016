@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Mass Parabolas Continued, Stability, and Half-Life'
 uid: f9555f2a-bd0a-73ee-ea07-301902bc0a34
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec05_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/8729c6741ad25f0a993856a8ad35fb9a_mJ54DfN95Zo.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/8729c6741ad25f0a993856a8ad35fb9a_mJ54DfN95Zo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/mJ54DfN95Zo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/070796817aacbd95389fc57d7d9ced35_mJ54DfN95Zo.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/070796817aacbd95389fc57d7d9ced35_mJ54DfN95Zo.pdf
 video_metadata:
   youtube_id: mJ54DfN95Zo
 ---

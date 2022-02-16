@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 title: Prioritizing Teaching, Empowering Students
 uid: 7861b7df-e269-8d47-a387-c70f954004df

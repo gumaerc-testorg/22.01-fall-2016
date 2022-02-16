@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 ---
@@ -36,20 +38,6 @@ This course, which is the first subject in the Nuclear Science and Engineering u
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A view over several rows of tablet desks, showing the sliding chalkboards at the front of the classroom.]({{< resource_file e6694a18-dcd3-37b7-af84-25df1809357f >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture  
-    
-    Classes met in a lecture hall similar to the one pictured, with tablet seats, A/V equipment, and sliding chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

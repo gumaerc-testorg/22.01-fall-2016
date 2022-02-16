@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/fa044564774e40a41003dde717e2f036_Chalk_Radio_Album_Art_v2.jpg
+file: /media/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/fa044564774e40a41003dde717e2f036_Chalk_Radio_Album_Art_v2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: The logo of the Chalk Radio podcast
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Chalk Radio logo
 uid: fa044564-774e-40a4-1003-dde717e2f036

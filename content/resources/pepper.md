@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/898755ce3104e859562efa39d553cff9_pepper.jpg
+file: /media/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/898755ce3104e859562efa39d553cff9_pepper.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: What Is the Course All About?
+parent_type: CourseSection
 resourcetype: Image
 title: pepper.jpg
 uid: 898755ce-3104-e859-562e-fa39d553cff9

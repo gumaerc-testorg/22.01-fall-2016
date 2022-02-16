@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/9d219bd741897c42467e89ab68bc1bef_KWaGHCjsSAM.srt
+file: /media/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/9d219bd741897c42467e89ab68bc1bef_KWaGHCjsSAM.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 9d219bd7-4189-7c42-467e-89ab68bc1bef

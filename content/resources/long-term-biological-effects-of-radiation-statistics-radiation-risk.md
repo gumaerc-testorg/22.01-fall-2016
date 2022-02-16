@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 33: Long-Term Biological Effects of Radiation, Statistics, Radiation
   Risk'
 uid: 2e303701-e3a0-9aae-db75-850c7c6bf9ca
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec33_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/cfdb21a2be7b5a4089bb8dd7f6190188_yYto-sIfHjo.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/cfdb21a2be7b5a4089bb8dd7f6190188_yYto-sIfHjo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/yYto-sIfHjo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/b881c418f5303635726816792f0727c3_yYto-sIfHjo.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/b881c418f5303635726816792f0727c3_yYto-sIfHjo.pdf
 video_metadata:
   youtube_id: yYto-sIfHjo
 ---

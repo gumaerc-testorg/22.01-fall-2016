@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: db734abe-3c22-bf06-6c44-e389b3d37c73
 ---
@@ -99,7 +101,7 @@ These will consist of open-ended questions, where you have to make key assumptio
 
 The laboratory component of each assignment should be submitted as a short scientific journal article. We'll provide a sample high-quality journal article, highlighting the type of organization, language, sections, and references that it should contain. Each article should contain:
 
-*   A <100 word abstract, which summarizes the main problem and results very briefly.
+*   A \<100 word abstract, which summarizes the main problem and results very briefly.
 *   An introduction, which puts the problem into context: Why it is important (and not because it was assigned).
 *   An experimental methods section, where you describe what you did.
 *   A results section, where you show all your raw and intermediate data.

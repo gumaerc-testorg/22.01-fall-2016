@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Nuclear Mass and Stability, Nuclear Reactions and Notation, Introduction
   to Cross Section'
 uid: d4787199-e5f1-699b-3d7d-c840a0f1cbbb
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec03_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/1805f54fc43e58e483c71ff6b7e3b28e_Gd0QPYVYnQg.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/1805f54fc43e58e483c71ff6b7e3b28e_Gd0QPYVYnQg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Gd0QPYVYnQg/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/b80a836f08f1e7fa8bd53301d8781c4e_Gd0QPYVYnQg.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/b80a836f08f1e7fa8bd53301d8781c4e_Gd0QPYVYnQg.pdf
 video_metadata:
   youtube_id: Gd0QPYVYnQg
 ---

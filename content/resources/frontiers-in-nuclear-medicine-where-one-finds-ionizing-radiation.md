@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 31: Frontiers in Nuclear Medicine, Where One Finds Ionizing Radiation'
 uid: 1f20131b-5a37-c4b9-9e42-6fabf35611c9
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec31_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/77441c167d0453b1b6447fb798b95744_kzOFhSJFihI.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/77441c167d0453b1b6447fb798b95744_kzOFhSJFihI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/kzOFhSJFihI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/c61eb2dc2ab817d8dc4f522044ae3c80_kzOFhSJFihI.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/c61eb2dc2ab817d8dc4f522044ae3c80_kzOFhSJFihI.pdf
 video_metadata:
   youtube_id: kzOFhSJFihI
 ---

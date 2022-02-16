@@ -2,15 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 1: Radiation History to the Present\u2014Understanding the Discovery\
   \ of the Neutron"
 uid: c19cd063-e15f-2a32-516b-924f1676c790
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/e9ff2924f5725f4fb48e214335c01698_7LyvAVjQUR8.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/e9ff2924f5725f4fb48e214335c01698_7LyvAVjQUR8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/7LyvAVjQUR8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/26f9dd16a854243cb751c8a0b4b118a5_7LyvAVjQUR8.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/26f9dd16a854243cb751c8a0b4b118a5_7LyvAVjQUR8.pdf
 video_metadata:
   youtube_id: 7LyvAVjQUR8
 ---

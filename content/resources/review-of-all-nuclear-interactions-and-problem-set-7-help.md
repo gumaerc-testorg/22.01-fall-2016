@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Review of All Nuclear Interactions and Problem Set 7 Help'
 uid: bfd4afde-1d34-d8af-1345-5c9975397816
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec25_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/c9a01a23f5e855fc870e40fc8116f3d1_KWaGHCjsSAM.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/c9a01a23f5e855fc870e40fc8116f3d1_KWaGHCjsSAM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KWaGHCjsSAM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/d149ecc027d1bd46151be6782f7c7334_KWaGHCjsSAM.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/d149ecc027d1bd46151be6782f7c7334_KWaGHCjsSAM.pdf
 video_metadata:
   youtube_id: KWaGHCjsSAM
 ---

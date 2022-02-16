@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 29: Nuclear Materials Science Continued'
 uid: dc4d9cae-2b72-cd06-e781-a3052a3dcf05
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec29_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/d16281ddd70a578984b62972b0574f58_UDAuMq-0mEo.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/d16281ddd70a578984b62972b0574f58_UDAuMq-0mEo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/UDAuMq-0mEo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/533138bf0c90f8aa0d9d86f2b8d83d6e_UDAuMq-0mEo.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/533138bf0c90f8aa0d9d86f2b8d83d6e_UDAuMq-0mEo.pdf
 video_metadata:
   youtube_id: UDAuMq-0mEo
 ---

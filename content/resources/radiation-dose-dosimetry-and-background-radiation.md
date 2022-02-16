@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 30: Radiation Dose, Dosimetry, and Background Radiation'
 uid: 1c0f023b-c7e5-8ba8-689b-6670e04061ae
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec30_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/1bc62eece2925f02b6d6517a8fc9ebed_Hz7ouec7dKo.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/1bc62eece2925f02b6d6517a8fc9ebed_Hz7ouec7dKo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Hz7ouec7dKo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/09484768966cc14934e8d96a5aa0d8ac_Hz7ouec7dKo.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/09484768966cc14934e8d96a5aa0d8ac_Hz7ouec7dKo.pdf
 video_metadata:
   youtube_id: Hz7ouec7dKo
 ---

@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to nuclear
   engineering and ionizing radiation: List of nuclear activation analysis.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/0fc91a987b1619ce718399a39f4db4f0_ps5_NAA.xls
+file: /media/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/0fc91a987b1619ce718399a39f4db4f0_ps5_NAA.xls
 file_type: application/vnd.ms-excel
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: List of Nuclear Activation Analysis
 uid: 0fc91a98-7b16-19ce-7183-99a39f4db4f0

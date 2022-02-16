@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 title: Hands-On Learning
 uid: 5e6bf892-8033-ca38-aab2-2c8793074f33
