@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 13: Practical Radiation Counting Experiments\u2014Solid Angle, Count\
   \ Rates, Uncertainty, and Hands-On Gamma Counting and Nuclear Activation Analysis"
 uid: bb3fe705-eac6-05c3-e09b-345eebcaa1c2

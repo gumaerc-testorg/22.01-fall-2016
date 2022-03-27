@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 18: Ion-Nuclear Interactions II\u2014Bremsstrahlung, X-Ray Spectra,\
   \ Cross Sections"
 uid: a87f2cb5-a03f-61da-3204-3bfceab0b5c0

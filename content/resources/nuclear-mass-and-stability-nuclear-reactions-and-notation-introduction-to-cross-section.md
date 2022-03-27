@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Nuclear Mass and Stability, Nuclear Reactions and Notation, Introduction
   to Cross Section'
 uid: d4787199-e5f1-699b-3d7d-c840a0f1cbbb

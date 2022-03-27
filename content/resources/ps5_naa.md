@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 45019f75-48b7-2adc-0b96-e629c3954596
 resourcetype: Other
 title: List of Nuclear Activation Analysis
 uid: 0fc91a98-7b16-19ce-7183-99a39f4db4f0

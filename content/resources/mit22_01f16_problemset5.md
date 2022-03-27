@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 45019f75-48b7-2adc-0b96-e629c3954596
 resourcetype: Document
 title: 'Problem Set 5: Photon Interactions with Matter'
 uid: 00d48a20-a578-00ce-5974-9b2ae39956b1

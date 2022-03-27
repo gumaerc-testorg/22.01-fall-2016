@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b1820160-6a87-87ef-ebd9-bd82492fb3a5
 resourcetype: Document
 title: Quiz 2 Study Sheet
 uid: 0be2b232-07aa-3d57-5804-6a5572818255

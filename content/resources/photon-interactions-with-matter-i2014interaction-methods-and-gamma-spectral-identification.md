@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 14: Photon Interactions with Matter I\u2014Interaction Methods and\
   \ Gamma Spectral Identification"
 uid: 0a187579-83b2-ef35-17dd-3f7dd97cf026

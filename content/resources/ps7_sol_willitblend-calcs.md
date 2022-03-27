@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 45019f75-48b7-2adc-0b96-e629c3954596
 resourcetype: Other
 title: Excel Calculations for "Will It Blend?"
 uid: 65cf0803-226e-46fa-06ba-09a6a5e2b0cc

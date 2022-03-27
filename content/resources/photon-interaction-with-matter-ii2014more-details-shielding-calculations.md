@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 15: Photon Interaction with Matter II\u2014More Details, Shielding\
   \ Calculations"
 uid: 9525889a-9c56-76a8-c7e8-fbf83dad84ee

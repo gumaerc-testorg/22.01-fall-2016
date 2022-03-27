@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Solving the Neutron Diffusion Equation, and Criticality Relations'
 uid: 10d6a72e-14bf-114d-55f8-8acc47897a0b
 video_files:

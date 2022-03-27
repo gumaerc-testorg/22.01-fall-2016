@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 31: Frontiers in Nuclear Medicine, Where One Finds Ionizing Radiation'
 uid: 1f20131b-5a37-c4b9-9e42-6fabf35611c9
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 17: Ion-Nuclear Interactions I\u2014Scattering and Stopping Power\
   \ Derivation, Ion Range"
 uid: 801b9eb3-8a39-63da-09e9-1f4d762f8c1b

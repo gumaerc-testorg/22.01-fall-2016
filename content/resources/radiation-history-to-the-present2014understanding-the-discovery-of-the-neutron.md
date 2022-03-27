@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 1: Radiation History to the Present\u2014Understanding the Discovery\
   \ of the Neutron"
 uid: c19cd063-e15f-2a32-516b-924f1676c790
