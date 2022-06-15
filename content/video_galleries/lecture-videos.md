@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This page provides the videos for lectures and associated activities.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

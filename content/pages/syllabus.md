@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page summarizes the course objectives and grading policy, and presents
+  a summary calendar of topics and due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

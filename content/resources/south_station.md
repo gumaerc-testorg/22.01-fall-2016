@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/942932a35164e735835dd1c4351e329d_South_Station.jpg
+file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/942932a35164e735835dd1c4351e329d_South_Station.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Professor Short explains the overall topic of 22.01
+  Introduction to Nuclear Engineering and Ionizing Radiation and what he hopes students
+  will take away from the class.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -20,7 +23,7 @@ _In this section, Professor Short explains the overall topic of_ 22.01 Introduct
 
 **OCW:** Nuclear science, and radiation in particular, are emotionally charged topics. How are you preparing students to debunk pseudoscience and to really serve the public?
 
-![A close-up view of a packet labeled “Crushed red peppers treated with radiation.”]({{< resource_file 898755ce-3104-e859-562e-fa39d553cff9 >}})
+{{< resource 898755ce-3104-e859-562e-fa39d553cff9 >}}
 
 A packet of crushed red pepper that has been irradiated to prevent spoilage. (Image courtesy of [Lee Bennett](https://www.flickr.com/photos/leebennett/5486448368/) on Flickr. License: CC BY-NC-SA.)
 

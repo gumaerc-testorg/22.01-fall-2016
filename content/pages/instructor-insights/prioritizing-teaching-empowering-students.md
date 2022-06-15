@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this section, Professor Short weighs in on the importance of valuing\
+  \ teaching and being responsive to students\u2019 concerns."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

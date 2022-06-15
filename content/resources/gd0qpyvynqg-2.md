@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/1805f54fc43e58e483c71ff6b7e3b28e_Gd0QPYVYnQg.vtt
+file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/1805f54fc43e58e483c71ff6b7e3b28e_Gd0QPYVYnQg.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
