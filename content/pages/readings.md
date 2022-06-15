@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This page presents selected lecture notes and lists the reading assignments
+  for each lecture.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 7d42543a-bc9c-12f6-6111-f423b8894a80
 ---
-
-Textbooks
----------
+## Textbooks
 
 ### Required Textbook
 
@@ -18,1082 +19,362 @@ Textbooks
 
 \[Yip\] = Yip, Sidney. _Nuclear Radiation Interactions_. World Scientific Publishing Company, 2014. ISBN: 9789814368070.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-{{< thopen >}}
-CHALKBOARDS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Radiation History to the Present—Understanding the Discovery of the Neutron
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Chadwick, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Possible Existence of a Neutron." (PDF)](http://web.mit.edu/22.54/resources/Chadwick.pdf) _Nature_ 129 (1932): 312.
+Chadwick, J. ["Possible Existence of a Neutron." (PDF)](http://web.mit.edu/22.54/resources/Chadwick.pdf) _Nature_ 129 (1932): 312.
 
 ———. "[The Existence of a Neutron](https://doi.org/10.1098/rspa.1932.0112)." _Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences_ 136, no. 830 (1932): 692.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Radiation Utilizing Technology
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[Yip\] pp. 1–11.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Nuclear Mass and Stability, Nuclear Reactions and Notation, Introduction to Cross Section
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[Turner\] Chapter 3: The Nucleus and Nuclear Radiation, pp. 55–61.  
+\[Turner\] Chapter 3: The Nucleus and Nuclear Radiation, pp. 55–61.   
 _A gentle introduction to nuclear mass and binding energy_
 
-\[Yip\] Chapter 4: Stability of Nuclei, pp. 51–58.  
+\[Yip\] Chapter 4: Stability of Nuclei, pp. 51–58.   
 _Considerably more detail and derivations_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Binding Energy, the Semi-Empirical Liquid Drop Nuclear Model, and Mass Parabolas
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[Yip\] Chapter 4: Stability of Nuclei, pp. 59–64.  
+{{< tdclose >}}{{< tdopen >}}
+\[Yip\] Chapter 4: Stability of Nuclei, pp. 59–64.   
 _Short but useful; please read fully and carefully_
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-370707710915fjpg25265199
-
-Click to see full size image
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Mass Parabolas Continued, Stability, and Half-Life
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Oganessian, Y. and K. Rykaczewski. "[A Beachhead on the Island of Stability](https://physicstoday.scitation.org/doi/10.1063/PT.3.2880)." _Physics Today_ 68, no. 8 (2015): 32.  
+{{< tdclose >}}{{< tdopen >}}
+Oganessian, Y. and K. Rykaczewski. "[A Beachhead on the Island of Stability](https://physicstoday.scitation.org/doi/10.1063/PT.3.2880)." _Physics Today_ 68, no. 8 (2015): 32.   
 _A fascinating article from Physics Today about superheavy elements_
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 The Q-Equation—The Most General Nuclear Reaction
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-375029750920f\_1jpg92536306
-
-592916690920f\_2jpg52514391
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Q-Equation Continued and Examples
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-937774060922f\_1jpg36810967
-
-246509380922f\_2jpg15431221
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Radioactive Decay—Modes, Energetics, and Trends
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[Turner\] Sections 3.3 to 3.8, pp 62–79.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-550898290927fjpg83256121
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Radioactive Decay Continued
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[Turner\] Sections 4.1 to 4.3, pp. 83–88.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Radioactive Decay Continued
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Wotiz, R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ionization Detectors." (PDF)](http://circuitcellar.com/wp-content/uploads/2012/06/CC2011110601.pdf) _Circuit Cellar_ 256 (2011): 60–65..  
+{{< tdclose >}}{{< tdopen >}}
+Wotiz, R. ["Ionization Detectors." (PDF)](http://circuitcellar.com/wp-content/uploads/2012/06/CC2011110601.pdf) _Circuit Cellar_ 256 (2011): 60–65..   
 _A simple explanation of the math & physics of ionization smoke detectors_
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-538461450930fjpg55147650
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-11
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Radioactivity and Series Radioactive Decays
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[Turner\] Section 4.4, pp. 89–95.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-244249151004f\_1jpg86158485
-
-933764671004f\_2jpg70102450
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-12
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Numerical Examples of Activity, Half-Life, and Series Decay
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[Turner\] Chapter 11, pp. 303–35.  
-_A complete derivation of statistics from Binomial to Poisson to Normal, as it applies to radiation counting uncertainty_
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-59981991006fjpg46437179
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-13
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Practical Radiation Counting Experiments—Solid Angle, Count Rates, Uncertainty, and Hands-On Gamma Counting and Nuclear Activation Analysis
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+11
+{{< tdclose >}}{{< tdopen >}}
+Radioactivity and Series Radioactive Decays
+{{< tdclose >}}{{< tdopen >}}
+\[Turner\] Section 4.4, pp. 89–95.
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+12
+{{< tdclose >}}{{< tdopen >}}
+Numerical Examples of Activity, Half-Life, and Series Decay
+{{< tdclose >}}{{< tdopen >}}
+\[Turner\] Chapter 11, pp. 303–35.   
+_A complete derivation of statistics from Binomial to Poisson to Normal, as it applies to radiation counting uncertainty_
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+13
+{{< tdclose >}}{{< tdopen >}}
+Practical Radiation Counting Experiments—Solid Angle, Count Rates, Uncertainty, and Hands-On Gamma Counting and Nuclear Activation Analysis
+{{< tdclose >}}{{< tdopen >}}
+\[No reading assigned\]
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Photon Interactions with Matter I—Interaction Methods and Gamma Spectral Identification
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Turner\] Chapter 8, pp. 173–201.
 
 \[Yip\] pp. 216–22.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-531054321013fjpg89925725
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-15
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Photon Interaction with Matter II—More Details, Shielding Calculations
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-885829191014fjpg33657058 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-16
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Nuclear Reactor Construction and Operation
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+15
+{{< tdclose >}}{{< tdopen >}}
+Photon Interaction with Matter II—More Details, Shielding Calculations
+{{< tdclose >}}{{< tdopen >}}
+\[No reading assigned\]
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+16
+{{< tdclose >}}{{< tdopen >}}
+Nuclear Reactor Construction and Operation
+{{< tdclose >}}{{< tdopen >}}
+\[No reading assigned\]
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Ion-Nuclear Interactions I—Scattering and Stopping Power Derivation, Ion Range
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[Turner\] Chapter 6, pp. 139–54.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-892362151021f\_1jpg72601438
-
-647684341021f\_2jpg87068074
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Ion-Nuclear Interactions II—Bremsstrahlung, X-Ray Spectra, Cross Sections
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[Turner\] Chapter 5, pp. 109–34.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-313288201025f\_1jpg50748377
-
-493675451025f\_2jpg30007408
-
-395612711025f\_3jpg22363470
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Uses of Photon and Ion Nuclear Interactions—Characterization Techniques
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[Turner\] Chapter 9, pp. 209–28.  
+\[Turner\] Chapter 9, pp. 209–28.   
 _A slightly simpler explanation_
 
-\[Yip\] Chapter 12, pp. 241–57.  
+\[Yip\] Chapter 12, pp. 241–57.   
 _A more difficult, more thorough explanation_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-62013991027fjpg9120994
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 How Nuclear Energy Works
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-617365431028fjpg96308437
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Neutron Transport
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-\[Turner\] Sections 9.9–9.11, pp. 228–35.  
+\[Turner\] Sections 9.9–9.11, pp. 228–35.   
 _A simpler explanation of some unique neutron reactions_
 
-\[Yip\] Sections 9.2–9.3, pp. 184–220.  
+\[Yip\] Sections 9.2–9.3, pp. 184–220.   
 _Quite thorough, with more derivation of energetics_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-101107331101f\_1jpg73136974
-
-311977171101f\_2jpg54147988
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Simplifying Neutron Transport to Neutron Diffusion
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-227978971103f\_1jpg1628147
-
-956865301103f\_2jpg18153692
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Solving the Neutron Diffusion Equation, and Criticality Relations
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Excerpt from Duderstadt, J. J., and L. J. Hamilton. _Nuclear Reactor Analysis_. Wiley, 1976, pp. 111–13 and 120–29. ISBN: 9780471223634.  
+Excerpt from Duderstadt, J. J., and L. J. Hamilton. _Nuclear Reactor Analysis_. Wiley, 1976, pp. 111–13 and 120–29. ISBN: 9780471223634.   
 _Conceptual derivation of the neutron transport equation, balancing gains and losses_
 
-\[Turner\] Chapter 3, pp. 45 and 57–61.  
+\[Turner\] Chapter 3, pp. 45 and 57–61.   
 _A simplification of the NTE to a one-variable ODE for a bare, homogeneous reactor_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-283983901104f\_1jpg42934250
-
-256217061104f\_2jpg24652844
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Transients, Feedback, and Time-Dependent Neutronics
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Turner\] Chapter 15, pp. 475–510.
 
-\[Turner\] Section 11.12, pp. 337–42.  
+\[Turner\] Section 11.12, pp. 337–42.   
 _Dead time, energy resolution, paralyzability_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-838127231108f\_1jpg34384800
-
-423553581108f\_2jpg7468424
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Review of All Nuclear Interactions and Problem Set 7 Help
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-GenIV International Forum / OECD Nuclear Energy Agency. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Technology Roadmap Update for Generation IV Nuclear Energy Systems." (PDF - 2.8MB)](https://www.gen-4.org/gif/upload/docs/application/pdf/2014-03/gif-tru2014.pdf) January 2014.  
+{{< tdclose >}}{{< tdopen >}}
+GenIV International Forum / OECD Nuclear Energy Agency. ["Technology Roadmap Update for Generation IV Nuclear Energy Systems." (PDF - 2.8MB)](https://www.gen-4.org/gif/upload/docs/application/pdf/2014-03/gif-tru2014.pdf) January 2014.   
 _Skim for details about the advanced fission reactors being researched_
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-148799491110fjpg61927820
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Chernobyl—How It Happened
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Nuclear Materials—Radiation Damage and Effects in Matter
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 28
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Chernobyl Trip Report by Jake Hecla
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Nuclear Materials Science Continued
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[Turner\] Chapter 12, pp. 361–86.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 30
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Radiation Dose, Dosimetry, and Background Radiation
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Turner\] Sections 4.5–4.6, pp. 96–102.
 
-Ackermann, M., et al. "[Detection of the Characteristic Pion-Decay Signature in Supernova Remnants](https://doi.org/10.1126/science.1231160)." _Science_ 339, no. 6121 (2013): 807–11.  
+Ackermann, M., et al. "[Detection of the Characteristic Pion-Decay Signature in Supernova Remnants](https://doi.org/10.1126/science.1231160)." _Science_ 339, no. 6121 (2013): 807–11.   
 _A recent breakthrough paper, changing the theory of the origin of cosmic rays_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 31
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Frontiers in Nuclear Medicine, Where One Finds Ionizing Radiation (Background and Other Sources)
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[No reading assigned\]
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 32
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Chemical and Biological Effects of Radiation, Smelling Nuclear Bullshit
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 \[Turner\] Sections 13.1–13.8, pp 399–421.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 33
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Long-Term Biological Effects of Radiation, Statistics, Radiation Risk
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 \[Turner\] Sections 13.9–13.15, pp. 421–41.
 
 Valentin, J., ed. "[Low-dose Extrapolation of Radiation-related Cancer Risk](http://www.icrp.org/publication.asp?id=ICRP%20Publication%2099)." _Annals of the International Commission of Radiological Protection_ 35, no. 4 (2005): 1–141.
 
-_ICRP-99 Recommendations on Radiation Protection:  
-Read pp. 13–46 for data and explanations about quantifying radiation risk_
+_ICRP-99 Recommendations on Radiation Protection: Read pp. 13–46 for data and explanations about quantifying radiation risk_
 
-Prekeges, J. L. "[Radiation Hormesis, or, Could All That Radiation Be Good for Us?](http://tech.snmjournals.org/content/31/1/11.long)" _Journal of Nuclear Medicine Technology_ 31, no. 1 (2003): 11–17.  
+Prekeges, J. L. "[Radiation Hormesis, or, Could All That Radiation Be Good for Us?](http://tech.snmjournals.org/content/31/1/11.long)" _Journal of Nuclear Medicine Technology_ 31, no. 1 (2003): 11–17.   
 _A quick survey of history and current knowledge (as of 2003) of different models of radiation exposure_
 
-Luckey, T. D. "[Radiation Hormesis: The Good, The Bad, and the Ugly](https://doi.org/10.2203/dose-response.06-102.Luckey)." _Dose-Response_ 4, no. 3 (2006): 169–90.  
+Luckey, T. D. "[Radiation Hormesis: The Good, The Bad, and the Ugly](https://doi.org/10.2203/dose-response.06-102.Luckey)." _Dose-Response_ 4, no. 3 (2006): 169–90.   
 _A rather pointed criticsm of the LNT model_
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 34
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Radiation Hormesis
+{{< tdclose >}}{{< tdopen >}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Moeller, D. W. "Radiation in Perspective." _HPS Newsletter_, June 1998. p. 17.  
+Moeller, D. W. "Radiation in Perspective." _HPS Newsletter_, June 1998. p. 17.   
 _A concise ten-point summary of typical radiation doses incurred by the general public_
 
 Urbain, W. M. "General Effects of Ionizing Radiation on Foods" and "Wholesomeness of Irradiated Foods." Chapters 5 and 13 in _Food Irradiation_. Academic Press, 2012, pp. 118–23 and 269–75. ISBN: 9780124315853. \[Preview with [Google Books](http://books.google.com/books?id=3V5IndKfswEC&pg=PA118=onepage)\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What's Wrong With Food Irradiation?" (PDF)](https://www.organicconsumers.org/sites/default/files/what%27s%20wrong%20with%20food%20irradiation%202001.pdf) Organic Consumers Association, 2001.  
+["What's Wrong With Food Irradiation?" (PDF)](https://www.organicconsumers.org/sites/default/files/what%27s%20wrong%20with%20food%20irradiation%202001.pdf) Organic Consumers Association, 2001.   
 _Using your new knowledge from 22.01, point out and explain all the scientific mistakes in this article. Include primary sources as backup to your arguments_.
 
-Mercola, J. M. "[Never Buy Meat, Potatoes or Herbs With 'Treated by Radiation' on the Label](http://articles.mercola.com/sites/articles/archive/2011/11/05/why-are-your-spices--seasonings-exposed-to-half-a-billion-chest-xrays-worth-of-radiation.aspx)." 2011.  
+Mercola, J. M. "[Never Buy Meat, Potatoes or Herbs With 'Treated by Radiation' on the Label](http://articles.mercola.com/sites/articles/archive/2011/11/05/why-are-your-spices--seasonings-exposed-to-half-a-billion-chest-xrays-worth-of-radiation.aspx)." 2011.   
 _This article contains references to primary sources. Come to class with a list of which (if any) reasons for opposing food irradiation are incorrect, and explain why_.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 35
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Food Irradiation and Its Safety
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-World Health Organization. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["High-Dose Irradiation: Wholesomeness of Food Irradiated With Doses Above 10kGy." (PDF - 4.2MB)](http://apps.who.int/iris/bitstream/10665/42203/1/WHO_TRS_890_%28part1%29.pdf) Report of Joint FAO / IAEA / WHO Study Group. 1999.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+World Health Organization. ["High-Dose Irradiation: Wholesomeness of Food Irradiated With Doses Above 10kGy." (PDF - 4.2MB)](http://apps.who.int/iris/bitstream/10665/42203/1/WHO_TRS_890_%28part1%29.pdf) Report of Joint FAO / IAEA / WHO Study Group. 1999.
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
