@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Professor Short gives examples of ways he incorporates
+  experiential learning into his teaching approach.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: a6387916-f3e7-531e-9ef2-4ec823ca76b5
 title: Hands-On Learning
 uid: 5e6bf892-8033-ca38-aab2-2c8793074f33
@@ -13,7 +18,7 @@ _In this section, Professor Short gives examples of ways he incorporates experie
 
 **PROFESSOR SHORT:** When we learn about reactor power manipulation, we let the students manipulate the power of our research reactor. We have a six-megawatt reactor, and we let the students take the control rod controls. They're able to push the rods in to lower the power, and raise them up to raise the power, and they'll notice that, as they're inserting the rod, the power goes down. And then they stop moving the rod and the power keeps going down. So then they have to lift it up again, and it shows these strange and nonlinear methods of reactor control. But the student's also usually sweating and shaking because they’re controlling a six-megawatt reactor.
 
-![The exterior façade of a large building, with tall granite columns.]({{< resource_file 942932a3-5164-e735-835d-d1c4351e329d >}})
+{{< resource 942932a3-5164-e735-835d-d1c4351e329d >}}
 
 Granite structures, such as the façade of Boston’s South Station, can give off significant levels of radon gas. (Image courtesy of [Bogdan Tapu](https://www.flickr.com/photos/bogdantapu/42137364544/) on Flickr. License CC BY-NC.)
 

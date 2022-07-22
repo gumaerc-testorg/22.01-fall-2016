@@ -1,16 +1,28 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Binding Energy, the Semi-Empirical Liquid Drop Nuclear Model, and
   Mass Parabolas'
 uid: 2f14a059-ea13-ed05-417a-d7541db5e5ad
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/6e3ac25c807d59ac8d6cef47bb094676_SgM2wxELF4U.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/6e3ac25c807d59ac8d6cef47bb094676_SgM2wxELF4U.vtt
   video_thumbnail_file: https://img.youtube.com/vi/SgM2wxELF4U/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/d327c616342897e4f00e1963b32d100f_SgM2wxELF4U.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/d327c616342897e4f00e1963b32d100f_SgM2wxELF4U.pdf
 video_metadata:
   youtube_id: SgM2wxELF4U
 ---
@@ -20,3 +32,4 @@ video_metadata:
 **Instructor:** Michael Short
 
 **Note:** To report potential content errors, [please use this form](https://forms.gle/8B2zcUvfCtgJdTdE7).
+

@@ -1,15 +1,27 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Radioactivity and Series Radioactive Decays'
 uid: 65158b7c-f0eb-45ce-b9db-58463539c912
 video_files:
   archive_url: https://archive.org/download/MIT22.01F16/MIT22_01F16_Lec11_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/7fe2bd0b16e5571baa2f697f21b452c7_z_xyx-z6arc.vtt
+  video_captions_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/7fe2bd0b16e5571baa2f697f21b452c7_z_xyx-z6arc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/z_xyx-z6arc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/62654cb8d410ee907c9c3836015a1585_z_xyx-z6arc.pdf
+  video_transcript_file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/62654cb8d410ee907c9c3836015a1585_z_xyx-z6arc.pdf
 video_metadata:
   youtube_id: z_xyx-z6arc
 ---
@@ -19,3 +31,4 @@ video_metadata:
 **Instructor:** Michael Short
 
 **Note:** To report potential content errors, [please use this form](https://forms.gle/8B2zcUvfCtgJdTdE7).
+
