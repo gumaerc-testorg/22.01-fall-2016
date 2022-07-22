@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set 4: Successive Decays and Statistics'
 uid: 8744a97a-a952-9f1e-7f2b-ab7b8e0c3cc9
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Problem set 4.
-

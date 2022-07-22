@@ -5,6 +5,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 2
 uid: 5476fbe1-b249-4b3a-89a2-795427d3b303
 ---
 This file contains information regarding quiz 2.
-

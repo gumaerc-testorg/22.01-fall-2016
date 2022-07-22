@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Excel Calculations for "Will It Blend?"
 uid: 65cf0803-226e-46fa-06ba-09a6a5e2b0cc
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Excel calculations for "Will It Blend?".
-

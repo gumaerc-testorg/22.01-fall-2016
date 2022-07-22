@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: ps7_files.zip
 uid: 11a67cab-065d-0881-dff0-5173355351db
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Problem set 7.
-
-

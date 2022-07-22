@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 6 Solutions
 uid: b03808fb-a3d2-5177-fe81-d4b658bf9bc6
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Problem set 6 solutions.
-

@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Quiz 1: Energetics, Radioactive Decay, Half Life'
 uid: 2e1ebfc4-5290-eb3c-457c-dde0c35d2efd
 ---
 This file contains information regarding quiz 1: Energetics, radioactive decay, half life.
-

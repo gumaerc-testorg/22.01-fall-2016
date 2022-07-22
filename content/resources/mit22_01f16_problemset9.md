@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set 9: Practice Problems for Final Quiz #3'
 uid: cd48eb47-54ae-477c-60f2-eb3f84a3ccd1
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Problem set 9.
-

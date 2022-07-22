@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set 8: Biological and Chemical Effects of Radiation'
 uid: 7caefb5d-f8f1-16b8-6497-95157b98aad3
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Problem set 8.
-

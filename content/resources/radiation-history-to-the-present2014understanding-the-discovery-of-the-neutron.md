@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ video_metadata:
 **Instructor:** Michael Short
 
 **Note:** To report potential content errors, [please use this form](https://forms.gle/8B2zcUvfCtgJdTdE7).
-
-
 

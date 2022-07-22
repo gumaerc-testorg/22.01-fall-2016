@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: List of Nuclear Activation Analysis
 uid: 0fc91a98-7b16-19ce-7183-99a39f4db4f0
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: List of nuclear activation analysis.
-

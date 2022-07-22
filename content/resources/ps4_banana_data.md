@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: ps4_banana_data.zip
 uid: 0263c0cd-d83c-1197-b4cb-40f3b94b1331
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Banana data.
-
-

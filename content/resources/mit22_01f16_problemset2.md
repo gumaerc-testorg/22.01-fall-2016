@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set 2: Nuclear Structure and Stability'
 uid: e519f0db-e4f6-fc18-1f0b-578223eacac4
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Problem set 2.
-

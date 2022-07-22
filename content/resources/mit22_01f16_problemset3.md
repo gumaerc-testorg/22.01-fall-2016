@@ -6,6 +6,7 @@ file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set 3: Radioactive Decay and Half Life'
 uid: 88a1d480-8187-a347-81ac-2ca1c77d39ce
 ---
 This resource contains information regarding introduction to nuclear engineering and ionizing radiation: Problem set 3.
-
