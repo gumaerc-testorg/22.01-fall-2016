@@ -2,12 +2,12 @@
 content_type: page
 description: This page summarizes the course objectives and grading policy, and presents
   a summary calendar of topics and due dates.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: db734abe-3c22-bf06-6c44-e389b3d37c73
 ---
-
 Course Meeting Times
 --------------------
 
