@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/0ad4fdb7cab89d319dec407d4f01e204_MIT22_01F16_Quiz3.pdf
+file_size: 325835
 file_type: application/pdf
 learning_resource_types:
 - Exams

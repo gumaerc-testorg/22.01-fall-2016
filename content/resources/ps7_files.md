@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information regarding introduction to nuclear\
   \ engineering and ionizing radiation: Problem set 7.\r\n"
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/11a67cab065d0881dff05173355351db_ps7_files.zip
+file_size: 974810
 file_type: application/zip
 learning_resource_types:
 - Assignments
