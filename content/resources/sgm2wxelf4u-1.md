@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/d327c616342897e4f00e1963b32d100f_SgM2wxELF4U.pdf
+file_size: 68319
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
