@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information regarding introduction to nuclear\
   \ engineering and ionizing radiation: Banana data.\r\n"
-file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/0263c0cdd83c1197b4cb40f3b94b1331_ps4_banana_data.zip
+file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/0263c0cdd83c1197b4cb40f3b94b1331_ps4_banana_data.zip
 file_size: 1100519
 file_type: application/zip
 learning_resource_types:
