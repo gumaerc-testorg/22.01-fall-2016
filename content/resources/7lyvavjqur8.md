@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/a6f2acd555253a9c8f1c352661cbd319_7LyvAVjQUR8.srt
+file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/a6f2acd555253a9c8f1c352661cbd319_7LyvAVjQUR8.srt
 file_size: 90938
 file_type: application/x-subrip
 learning_resource_types: []
