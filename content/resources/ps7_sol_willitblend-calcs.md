@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to nuclear
   engineering and ionizing radiation: Excel calculations for "Will It Blend?".'
-file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/65cf0803226e46fa06ba09a6a5e2b0cc_ps7_sol_WillItBlend-Calcs.xlsx
+file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/65cf0803226e46fa06ba09a6a5e2b0cc_ps7_sol_WillItBlend-Calcs.xlsx
 file_size: 1134529
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
