@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to nuclear
   engineering and ionizing radiation: Problem set 3.'
-file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/88a1d4808187a34781ac2ca1c77d39ce_MIT22_01F16_ProblemSet3.pdf
+file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/88a1d4808187a34781ac2ca1c77d39ce_MIT22_01F16_ProblemSet3.pdf
 file_size: 189747
 file_type: application/pdf
 learning_resource_types:

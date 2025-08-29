@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/fa044564774e40a41003dde717e2f036_Chalk_Radio_Album_Art_v2.jpg
+file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/fa044564774e40a41003dde717e2f036_Chalk_Radio_Album_Art_v2.jpg
 file_size: 461377
 file_type: image/jpeg
 image_metadata:
