@@ -5,7 +5,7 @@ leftnav:
   weight: 10
 - identifier: a6387916-f3e7-531e-9ef2-4ec823ca76b5
   name: Instructor Insights
-  pageRef: /pages/instructor-insights/
+  pageRef: /pages/instructor-insights/instructor-insights
   weight: 20
 - identifier: bc876b75-7ba0-32d7-a321-af54c0967aab
   name: Meet Prof. Michael Short
