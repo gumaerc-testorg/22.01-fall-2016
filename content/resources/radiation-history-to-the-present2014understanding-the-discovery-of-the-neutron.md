@@ -32,5 +32,5 @@ video_metadata:
 
 **Instructor:** Michael Short
 
-**Note:** To report potential content errors, [please use this form](https://forms.gle/8B2zcUvfCtgJdTdE7).
+**Note:** To report potential content errors, {{% resource_link "5b380843-d89b-49d5-8323-65cb17d13015" "please use this form" %}}.
 

@@ -23,7 +23,7 @@ SOLUTIONS
 
 {{% resource_link "63f3f48c-0cae-fb85-def3-a5e5c34cf0a9" "Problem set 2 solutions (PDF)" %}}
 
-[Gnumeric](http://www.gnumeric.org/) spreadsheets showing intermediate solutions
+{{% resource_link "a63670c7-5f03-416d-ace1-40474240c0e0" "Gnumeric" %}} spreadsheets showing intermediate solutions
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "88a1d480-8187-a347-81ac-2ca1c77d39ce" "Problem Set 3: Radioactive Decay and Half Life (PDF)" %}}
@@ -86,23 +86,23 @@ LINKS
 {{< thclose >}}{{< thopen >}}
 CONTEXTS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[KAERI Nuclide Table](https://atom.kaeri.re.kr/nuchart/)
+{{% resource_link "1eaf93ab-2c2d-4bb3-915e-9e360c7695ff" "KAERI Nuclide Table" %}}
 {{< tdclose >}}{{< tdopen >}}
 Use this for nuclear decay and mass data.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[NIST X-Ray Transition Energies Database](http://physics.nist.gov/PhysRefData/XrayTrans/Html/search.html)
+{{% resource_link "5def7fa6-827a-463c-b4b8-359c508aa838" "NIST X-Ray Transition Energies Database" %}}
 {{< tdclose >}}{{< tdopen >}}
 Use this to find all x-ray emission energies.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[NIST Tables of X-Ray Absorption Coefficients](http://www.nist.gov/pml/data/xraycoef/)
+{{% resource_link "64d9d21e-24f5-4902-bc9e-736229428fa4" "NIST Tables of X-Ray Absorption Coefficients" %}}
 {{< tdclose >}}{{< tdopen >}}
 Use this to find all x-ray emission energies.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[JANIS Nuclear Database](http://www.oecd-nea.org/janis/)
+{{% resource_link "02ea11d1-ffe1-43e7-99cf-132c7d5a3525" "JANIS Nuclear Database" %}}
 {{< tdclose >}}{{< tdopen >}}
 Use this to find any cross section for any nuclear reaction.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Online Graphing Calculator: Series Radioactive Decay](https://www.desmos.com/calculator/ymibe4voxp)
+{{% resource_link "306d7518-bbfb-4108-8d9a-86fe10e92ebc" "Online Graphing Calculator: Series Radioactive Decay" %}}
 {{< tdclose >}}{{< tdopen >}}
 Use this to graphically explore the series radioactive decay equations, e.g. for Problem Set 4.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
