@@ -33,9 +33,9 @@ READINGS
 Radiation History to the Present—Understanding the Discovery of the Neutron
 {{< tdclose >}}{{< tdopen >}}
 
-Chadwick, J. ["Possible Existence of a Neutron." (PDF)](http://web.mit.edu/22.54/resources/Chadwick.pdf) *Nature* 129 (1932): 312.
+Chadwick, J. {{% resource_link "25976b53-c937-49f9-8113-b425f70e342e" "\"Possible Existence of a Neutron.\" (PDF)" %}} *Nature* 129 (1932): 312.
 
-———. "[The Existence of a Neutron](https://doi.org/10.1098/rspa.1932.0112)." *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences* 136, no. 830 (1932): 692.
+———. "{{% resource_link "01e43518-9d04-4191-97bf-dabaa1f15121" "The Existence of a Neutron" %}}." *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences* 136, no. 830 (1932): 692.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -75,7 +75,7 @@ Binding Energy, the Semi-Empirical Liquid Drop Nuclear Model, and Mass Parabolas
 {{< tdclose >}}{{< tdopen >}}
 Mass Parabolas Continued, Stability, and Half-Life
 {{< tdclose >}}{{< tdopen >}}
-Oganessian, Y. and K. Rykaczewski. "[A Beachhead on the Island of Stability](https://physicstoday.scitation.org/doi/10.1063/PT.3.2880)." *Physics Today* 68, no. 8 (2015): 32.    
+Oganessian, Y. and K. Rykaczewski. "{{% resource_link "ca092a2f-428c-48f4-92c3-dc3bff8a957c" "A Beachhead on the Island of Stability" %}}." *Physics Today* 68, no. 8 (2015): 32.    
 *A fascinating article from Physics Today about superheavy elements*
 {{< tdclose >}}{{< tdopen >}}
  
@@ -116,7 +116,7 @@ Radioactive Decay Continued
 {{< tdclose >}}{{< tdopen >}}
 Radioactive Decay Continued
 {{< tdclose >}}{{< tdopen >}}
-Wotiz, R. ["Ionization Detectors." (PDF)](http://circuitcellar.com/wp-content/uploads/2012/06/CC2011110601.pdf) *Circuit Cellar* 256 (2011): 60–65..    
+Wotiz, R. {{% resource_link "397fd301-2bd5-45b6-843e-15bf67e6e7df" "\"Ionization Detectors.\" (PDF)" %}} *Circuit Cellar* 256 (2011): 60–65..    
 *A simple explanation of the math & physics of ionization smoke detectors*
 {{< tdclose >}}{{< tdopen >}}
  
@@ -265,7 +265,7 @@ Transients, Feedback, and Time-Dependent Neutronics
 {{< tdclose >}}{{< tdopen >}}
 Review of All Nuclear Interactions and Problem Set 7 Help
 {{< tdclose >}}{{< tdopen >}}
-GenIV International Forum / OECD Nuclear Energy Agency. ["Technology Roadmap Update for Generation IV Nuclear Energy Systems." (PDF - 2.8MB)](https://www.gen-4.org/gif/upload/docs/application/pdf/2014-03/gif-tru2014.pdf) January 2014.    
+GenIV International Forum / OECD Nuclear Energy Agency. {{% resource_link "510524a3-e979-4f65-b538-6fea2f777ef8" "\"Technology Roadmap Update for Generation IV Nuclear Energy Systems.\" (PDF - 2.8MB)" %}} January 2014.    
 *Skim for details about the advanced fission reactors being researched*
 {{< tdclose >}}{{< tdopen >}}
  
@@ -309,7 +309,7 @@ Radiation Dose, Dosimetry, and Background Radiation
 
 \[Turner\] Sections 4.5–4.6, pp. 96–102.
 
-Ackermann, M., et al. "[Detection of the Characteristic Pion-Decay Signature in Supernova Remnants](https://doi.org/10.1126/science.1231160)." *Science* 339, no. 6121 (2013): 807–11.    
+Ackermann, M., et al. "{{% resource_link "42ca729d-5d9c-4c3e-883c-d23198ce08f0" "Detection of the Characteristic Pion-Decay Signature in Supernova Remnants" %}}." *Science* 339, no. 6121 (2013): 807–11.    
 *A recent breakthrough paper, changing the theory of the origin of cosmic rays*
 
 {{< tdclose >}}{{< tdopen >}}
@@ -338,14 +338,14 @@ Long-Term Biological Effects of Radiation, Statistics, Radiation Risk
 
 \[Turner\] Sections 13.9–13.15, pp. 421–41.
 
-Valentin, J., ed. "[Low-dose Extrapolation of Radiation-related Cancer Risk](http://www.icrp.org/publication.asp?id=ICRP%20Publication%2099)." *Annals of the International Commission of Radiological Protection* 35, no. 4 (2005): 1–141.
+Valentin, J., ed. "{{% resource_link "5b744228-26b8-4c01-a4eb-8a4e15fc2c7a" "Low-dose Extrapolation of Radiation-related Cancer Risk" %}}." *Annals of the International Commission of Radiological Protection* 35, no. 4 (2005): 1–141.
 
 *ICRP-99 Recommendations on Radiation Protection: Read pp. 13–46 for data and explanations about quantifying radiation risk*
 
-Prekeges, J. L. "[Radiation Hormesis, or, Could All That Radiation Be Good for Us?](http://tech.snmjournals.org/content/31/1/11.long)" *Journal of Nuclear Medicine Technology* 31, no. 1 (2003): 11–17.    
+Prekeges, J. L. "{{% resource_link "dca81133-180d-4e70-97bb-50c1ed535d02" "Radiation Hormesis, or, Could All That Radiation Be Good for Us?" %}}" *Journal of Nuclear Medicine Technology* 31, no. 1 (2003): 11–17.    
 *A quick survey of history and current knowledge (as of 2003) of different models of radiation exposure*
 
-Luckey, T. D. "[Radiation Hormesis: The Good, The Bad, and the Ugly](https://doi.org/10.2203/dose-response.06-102.Luckey)." *Dose-Response* 4, no. 3 (2006): 169–90.    
+Luckey, T. D. "{{% resource_link "8447ca0d-8800-4d11-b825-1e2c9cc77c45" "Radiation Hormesis: The Good, The Bad, and the Ugly" %}}." *Dose-Response* 4, no. 3 (2006): 169–90.    
 *A rather pointed criticsm of the LNT model*
 
 {{< tdclose >}}{{< tdopen >}}
@@ -359,12 +359,12 @@ Radiation Hormesis
 Moeller, D. W. "Radiation in Perspective." *HPS Newsletter*, June 1998. p. 17.    
 *A concise ten-point summary of typical radiation doses incurred by the general public*
 
-Urbain, W. M. "General Effects of Ionizing Radiation on Foods" and "Wholesomeness of Irradiated Foods." Chapters 5 and 13 in *Food Irradiation*. Academic Press, 2012, pp. 118–23 and 269–75. ISBN: 9780124315853. \[Preview with [Google Books](http://books.google.com/books?id=3V5IndKfswEC&pg=PA118=onepage)\]
+Urbain, W. M. "General Effects of Ionizing Radiation on Foods" and "Wholesomeness of Irradiated Foods." Chapters 5 and 13 in *Food Irradiation*. Academic Press, 2012, pp. 118–23 and 269–75. ISBN: 9780124315853. \[Preview with {{% resource_link "27bb360a-521f-478f-859f-e7c37ed4ec71" "Google Books" %}}\]
 
 "What's Wrong With Food Irradiation?" Organic Consumers Association, 2001.    
 *Using your new knowledge from 22.01, point out and explain all the scientific mistakes in this article. Include primary sources as backup to your arguments*.
 
-Mercola, J. M. "[Never Buy Meat, Potatoes or Herbs With 'Treated by Radiation' on the Label](http://articles.mercola.com/sites/articles/archive/2011/11/05/why-are-your-spices--seasonings-exposed-to-half-a-billion-chest-xrays-worth-of-radiation.aspx)." 2011.    
+Mercola, J. M. "{{% resource_link "cc0b6067-55ab-4b44-b56b-917931a026f7" "Never Buy Meat, Potatoes or Herbs With 'Treated by Radiation' on the Label" %}}." 2011.    
 *This article contains references to primary sources. Come to class with a list of which (if any) reasons for opposing food irradiation are incorrect, and explain why*.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -374,7 +374,7 @@ Mercola, J. M. "[Never Buy Meat, Potatoes or Herbs With 'Treated by Radiation' o
 {{< tdclose >}}{{< tdopen >}}
 Food Irradiation and Its Safety
 {{< tdclose >}}{{< tdopen >}}
-World Health Organization. ["High-Dose Irradiation: Wholesomeness of Food Irradiated With Doses Above 10kGy." (PDF - 4.2MB)](http://apps.who.int/iris/bitstream/10665/42203/1/WHO_TRS_890_%28part1%29.pdf) Report of Joint FAO / IAEA / WHO Study Group. 1999.
+World Health Organization. {{% resource_link "3a1ef68a-88fc-42fa-87af-8f78ca399599" "\"High-Dose Irradiation: Wholesomeness of Food Irradiated With Doses Above 10kGy.\" (PDF - 4.2MB)" %}} Report of Joint FAO / IAEA / WHO Study Group. 1999.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

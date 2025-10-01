@@ -122,7 +122,7 @@ Working together is OK! If you work in a team, you must:
 4.  State who did which parts of the assignment. If we sense that someone is doing almost all the work, we will meet with you to prevent this sort of thing.
 5.  It's OK to take one set of experimental data together as a team, as long as you say who took the data.
 
-In addition, all students must read the [MIT guidelines on academic honesty and integrity](http://integrity.mit.edu/).
+In addition, all students must read the {{% resource_link "c53ee332-fc0d-4491-8229-50be32fd08bb" "MIT guidelines on academic honesty and integrity" %}}.
 
 ### Late Policy
 
